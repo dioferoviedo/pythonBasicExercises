@@ -1,4 +1,4 @@
-print('Lista de convidados do Diofinho')
+print('Controle de convidados para a festa')
 print('##################################')
 
 quantia = input('Quantidade de convidados: ')
